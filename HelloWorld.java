@@ -6,5 +6,8 @@ public class HelloWorld {
 
 		System.out.println("WorkHard!");
 		System.out.println("Come on!");
+
+
+		System.out.println("best!");
 	}
 }
